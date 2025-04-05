@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently exploring cognitive architectures such as ACT-R and SOAR, emphasizing computational modeling of cognition.<br>🔧 Developing virtual reality implementations for cognitive task assessment and experimentation.<br>💼 Engaged in research at the CSUSB Learning Research Institute and ReimerLab, investigating neurobiological and cognitive mechanisms underlying classroom learning, including executive functioning, cognitive control, and working memory.
+📚 Currently exploring cognitive architectures such as ACT-R and SOAR, emphasizing computational modeling of cognition.<br>🔧 Developing virtual reality implementations of cognitive tasks for assessment and experimentation.<br>💼 Engaged in research at the CSUSB Learning Research Institute and ReimerLab, investigating neurobiological and cognitive mechanisms underlying classroom learning, including executive functioning, cognitive control, and working memory.
 
 
 ## 🌐 Socials:
